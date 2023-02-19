@@ -1,0 +1,199 @@
+@import url("../../css-1.css");
+html,
+body {
+    background-image: url('../imgs/bg-body.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-font-smoothing: antialiased;
+    background-color: #fff;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 200;
+    margin: 0px;
+    padding: 0px;
+    margin: 0;
+    color: #000000;
+}
+.table-fixed tbody {
+    height: 200px;
+    border-collapse: collapse;
+    overflow-y: auto;
+    width: 100%;
+}
+.table-fixed thead,
+.table-fixed tbody,
+.table-fixed tr,
+.table-fixed td,
+.table-fixed th {
+    display: block;
+}
+.table-fixed tr:after {
+    content: "";
+    display: block;
+    visibility: hidden;
+    clear: both;
+}
+.table-fixed tbody td,
+.table-fixed thead > tr > th {
+    float: left;
+
+}
+.table > thead > tr > th,
+.table > thead > tr > td {
+    font-size: 1.2em;
+    font-weight: 800;
+    letter-spacing: 1px;
+    vertical-align: top;
+    padding: 8px;
+    background-color: #51596a;
+    background: -webkit-linear-gradient(#f59404, #fbf300);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+.wrapper {
+    height: 100%;
+}
+
+.gift {
+    background: url('../imgs/wheel/bg-gift.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-top: 100px;
+}
+
+.wrapper-gift {
+    padding-top: 50px;
+}
+
+.wrapper-gift .title {
+    color: #fff;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.wrapper-gift .tips {
+    color: #fff;
+    font-style: italic;
+    text-align: center;
+}
+
+.full-height {
+    height: 100vh;
+}
+
+.flex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.position-ref {
+    position: relative;
+}
+
+.top-right {
+    position: absolute;
+    right: 10px;
+    top: 18px;
+}
+
+.content {
+    text-align: center;
+}
+
+.title {
+    font-size: 44px;
+}
+
+.links>a {
+    color: #636b6f;
+    padding: 0 25px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.m-b-md {
+    margin-bottom: 30px;
+}
+
+.threed {
+    font-family: "Dancing Script";
+    text-align: center;
+    font-weight: 400;
+    font-size:  3em;;
+    color: white;
+    -webkit-text-stroke: 1px rgba(0, 0, 0, 0.2);
+    text-shadow: -3px 0 rgba(0, 255, 255, 0.4), 3px 0 rgba(255, 0, 255, 0.4);
+    padding-top: 50px
+}
+
+. .the_wheel {
+    margin: auto;
+    width: 100%;
+}
+
+#canvas {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.spinner{
+    background-color: transparent;
+    border-radius: 26px !important;
+    background-image: url(../imgs/wheel/Button-QuayNgay.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 25%;
+    transform: translate(150%, 0%);
+}
+div.power_controls {
+    border: none;
+    background-image:  url(../imgs/wheel/Khung-VongQuay.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -47%);
+    width: 100%;
+    height: 117%;
+    cursor: pointer;
+}
+
+div.power_controls a {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+div.power_controls a:hover {
+    text-decoration: none;
+}
+
+#rewardModal .model-content .model-body .reward-list ul {
+    list-style: none;
+}
+
+.arrow-down {
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    transform: translate(-50%, 0);
+    width: 0;
+    height: 0;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-top: 30px solid #f00;
+}
+

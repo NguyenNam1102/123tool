@@ -1,0 +1,166 @@
+<color:red,x:0,size:16>I. Giới Thiệu
+<color:BlueViolet,x:5,size:14>Tổng hợp các chức năng hỗ trợ:
+<color:DeepSkyBlue,x:7,size:12>- Chiến Ngọc Rồng Sao Đen
+<color:DeepSkyBlue,x:7,size:12>- Săn boss
+<color:DeepSkyBlue,x:7,size:12>- Ks Super Broly khi còn 1 hp
+<color:DeepSkyBlue,x:7,size:12>- Auto leo top whis
+<color:DeepSkyBlue,x:7,size:12>- Điều khiển nhiều tab cùng lúc VD: boom dàn acc, ...
+<color:BlueViolet,x:5,size:14>Và các chức năng cơ bản khi sử dụng hằng ngày như:
+<color:DeepSkyBlue,x:7,size:12>- Up đệ tử
+<color:DeepSkyBlue,x:7,size:12>- Tàn sát
+<color:DeepSkyBlue,x:7,size:12>- Đi khí gas hủy diệt
+<color:DeepSkyBlue,x:7,size:12>- Và rất nhiều chức năng khác...
+<color:red,x:0,size:14>II. Lịch sử Update
+<color:DeepSkyBlue,x:7,size:12>- 1.1.8:
+<color:White,x:7,size:12>- thêm hiện số spl trong hành trang
+<color:White,x:7,size:12>- để lại auto update bản trc xóa nhầm :v
+<color:DeepSkyBlue,x:7,size:12>- 1.1.7:
+<color:White,x:7,size:12>- fix hồi skill trong map khí gas
+<color:DeepSkyBlue,x:7,size:12>- 1.1.5:
+<color:White,x:7,size:12>- fix mkn trong khí gas
+<color:White,x:7,size:12>- tăng time gkn trong NRSD lên 30s
+<color:DeepSkyBlue,x:7,size:12>- 1.1.4:
+<color:White,x:7,size:12>- update vì pack nhầm :"))
+<color:DeepSkyBlue,x:7,size:12>- 1.1.3:
+<color:White,x:7,size:12>- fix auto skill
+<color:White,x:7,size:12>- thêm auto mua đậu (chat 'apean') *mua gói đậu 10n ở npc trc làng*
+<color:White,x:7,size:12>- thêm tàn sát xài nhiều skill cùng lúc (lệnh thêm skill ở dưới) *chỉ nên xài ở sv lậu*
+<color:White,x:7,size:12>- thêm chọn trạng thái đệ nhanh (mở ttdt ấn vô trạng thái sau 'Pet Info')
+<color:DeepSkyBlue,x:7,size:12>- 1.1.2:
+<color:White,x:7,size:12>- fix connect với qltk
+<color:White,x:7,size:12>- fix tàn sát sv chính
+<color:DeepSkyBlue,x:7,size:12>- 1.1.1:
+<color:White,x:7,size:12>- thêm phá captcha của plusdino.com (nhập key ở tab controller trong qltk, key là chuỗi kí tự ở sau 'token=')
+<color:White,x:7,size:12>- thêm auto cộng chỉ số
+<color:White,x:7,size:12>- hiện time skill
+<color:White,x:7,size:12>- fix xmap sv dream
+<color:White,x:7,size:12>- thêm setting giảm fps (ấn 'W' để bật/tắt, set delay bằng lệnh 'fpsX' nên để dưới 50)
+<color:White,x:7,size:12>- fix auto login thi thoảng ko login
+<color:DeepSkyBlue,x:7,size:12>- 1.1.0:
+<color:White,x:7,size:12>- thêm mở rương từ xa (ấn 'I')
+<color:DeepSkyBlue,x:7,size:12>- 1.0.9:
+<color:White,x:7,size:12>- thêm bật tắt eff khi boom
+<color:White,x:7,size:12>- fix mp buff cho đệ
+<color:DeepSkyBlue,x:7,size:12>- 1.0.8:
+<color:White,x:7,size:12>- thêm auto chat
+<color:White,x:7,size:12>- thêm auto nhặt trứng mabu
+<color:DeepSkyBlue,x:7,size:12>- 1.0.7:
+<color:White,x:7,size:12>- thêm auto giữ kết nối trong map NRSD (chat 'gknnrd')
+<color:DeepSkyBlue,x:7,size:12>- 1.0.6:
+<color:White,x:7,size:12>- thêm auto mở cskb (chat 'acskb')
+<color:White,x:7,size:12>- thêm auto ăn đậu theo hp, tl đệ (trong menu up đệ - auto ăn đậu)
+<color:White,x:7,size:12>- thêm bật tắt cờ đen (trong menu up đệ)
+<color:White,x:7,size:12>- thêm né boss (trong menu up đệ)
+<color:White,x:7,size:12>- thêm check lag, trắng skill, ... (tự logout rồi login lại)
+<color:White,x:7,size:12>- fix tàn sát max speed, hết quái tự tele đến quái hs sớm nhất (chat 'dlts0')
+<color:DeepSkyBlue,x:7,size:12>- 1.0.5:
+<color:White,x:7,size:12>- fix tàn sát char đánh cả pt :v
+<color:White,x:7,size:12>- thêm auto bán đồ khi full cho sv lậu (trong more hoặc chat bando)
+<color:DeepSkyBlue,x:7,size:12>- 1.0.4:
+<color:White,x:7,size:12>- thêm auto đập đồ spl (Thêm item vào bà hạt mít rồi ấn shift + Q)
+<color:DeepSkyBlue,x:7,size:12>- 1.0.3:
+<color:White,x:7,size:12>- fix lag tele khi tele đến quái bay
+<color:red,x:0,size:14>III. Hướng Dẫn Sử Dụng
+<color:yellow,x:5,size:13>* X và Y là tham số có thể thay đổi
+<color:lime,x:0,size:14>1. Lệnh Chat
+<color:DeepSkyBlue,x:7,size:12>- connect: Kết nối với QLTK
+<color:DeepSkyBlue,x:7,size:12>- disconnect: Ngắt kết nối với QLTK
+<color:DeepSkyBlue,x:7,size:12>- kX: Vô khu X
+<color:DeepSkyBlue,x:7,size:12>- ckX: Auto vô khu X khi có thể
+<color:DeepSkyBlue,x:7,size:12>- sX: Cheat X (có thể thêm . VD: s1.5)
+<color:DeepSkyBlue,x:7,size:12>- tdcX: Chỉnh tốc độ chạy X
+<color:DeepSkyBlue,x:7,size:12>- whis: Auto leo top whis
+<color:DeepSkyBlue,x:7,size:12>- si: Ghi lại data nhặt vp
+<color:DeepSkyBlue,x:7,size:12>- xindau: Auto xin đậu
+<color:DeepSkyBlue,x:7,size:12>- chodau: Auto cho đậu
+<color:DeepSkyBlue,x:7,size:12>- thudau: Auto thu đậu
+<color:DeepSkyBlue,x:7,size:12>- ask: Auto skill
+<color:DeepSkyBlue,x:7,size:12>- aksX: Thêm skill X vào danh sách auto
+<color:DeepSkyBlue,x:7,size:12>- gb: Goback
+<color:DeepSkyBlue,x:7,size:12>- setmap: Khóa map goback
+<color:DeepSkyBlue,x:7,size:12>- setzone: Khóa khu goback
+<color:DeepSkyBlue,x:7,size:12>- setxy: Khóa tọa độ goback
+<color:DeepSkyBlue,x:7,size:12>- kssp: Ks super broly khi còn 1hp
+<color:DeepSkyBlue,x:7,size:12>- aitem: Auto ăn item
+<color:DeepSkyBlue,x:7,size:12>- acn: Thêm cuồng nộ vào danh sách auto
+<color:DeepSkyBlue,x:7,size:12>- abh: Thêm bổ huyết vào danh sách auto
+<color:DeepSkyBlue,x:7,size:12>- agx: Thêm giáp sên vào danh sách auto
+<color:DeepSkyBlue,x:7,size:12>- abk: Thêm bổ khí vào danh sách auto
+<color:DeepSkyBlue,x:7,size:12>- amd: Thêm máy dò vào danh sách auto
+<color:DeepSkyBlue,x:7,size:12>- afood: Thêm đồ ăn vào danh sách auto
+<color:DeepSkyBlue,x:7,size:12>- ak: Tự động đánh
+<color:DeepSkyBlue,x:7,size:12>- tsc: Bật ak và tele + focus đến những nv có thể đánh
+<color:DeepSkyBlue,x:7,size:12>- atp: Auto pem khi đệ sủa
+<color:DeepSkyBlue,x:7,size:12>- gmt: Giữ mục tiêu đang focus
+<color:DeepSkyBlue,x:7,size:12>- xdh: Xóa địa hình
+<color:DeepSkyBlue,x:7,size:12>- anrd: Auto vào map và khu nrd đã chọn
+<color:DeepSkyBlue,x:7,size:12>- nrd X Y: Set map nrd X và khu Y
+<color:DeepSkyBlue,x:7,size:12>- add (trỏ vào quái hay vật phẩm): Thêm/Xoá quái hoặc vật phẩm ở danh sách tương ứng
+<color:DeepSkyBlue,x:7,size:12>- addt (trỏ vào quái hay vật phẩm): Thêm/Xoá loại quái hoặc loại vật phẩm ở danh sách tương ứng
+<color:DeepSkyBlue,x:7,size:12>- ts: Bật/Tắt tự động đánh quái
+<color:DeepSkyBlue,x:7,size:12>- nsq: Bật/Tắt né siêu quái khi tự động đánh quái (Mặc định bật)
+<color:DeepSkyBlue,x:7,size:12>- dltsX: Delay tàn sát X mili giây
+<color:DeepSkyBlue,x:7,size:12>- addmX: Thêm vào/Xoá khỏi danh sách đánh quái id X (X là id quái)
+<color:DeepSkyBlue,x:7,size:12>- addtm: Thêm vào/Xoá khỏi danh sách đánh loại quái id X (X là id loại quái)
+<color:DeepSkyBlue,x:7,size:12>- clrm: Xoá danh sách tàn sát
+<color:DeepSkyBlue,x:7,size:12>- skill (trỏ vào skill): Thêm vào/Xoá khỏi danh sách skill sử dụng tự động đánh quái
+<color:DeepSkyBlue,x:7,size:12>- skillX: Thêm vào/Xoá khỏi danh sách skill sử dụng tự động đánh quái skill thứ X (X là thứ tự skill)
+<color:DeepSkyBlue,x:7,size:12>- skillidX: Thêm vào/Xoá khỏi danh sách skill sử dụng tự động đánh quái skill id X (X là id skill)
+<color:DeepSkyBlue,x:7,size:12>- clrs: Đặt danh sách skill sử dụng tự động đánh quái về mặc định
+<color:DeepSkyBlue,x:7,size:12>- abf: Bật/Tắt tự động sử dụng đậu thần (KI, HP dưới 20%)
+<color:DeepSkyBlue,x:7,size:12>- abfX: Bật tự động sử dụng đậu thần khi HP dưới X%
+<color:DeepSkyBlue,x:7,size:12>- abfX Y: Bật tự động sử dụng đậu thần khi HP dưới X%, KI dưới Y%
+<color:DeepSkyBlue,x:7,size:12>- vdh: Bật/Tắt vượt địa hình (mặc định Bật)
+<color:DeepSkyBlue,x:7,size:12>- Lệnh tự động nhặt vật phẩm
+<color:DeepSkyBlue,x:7,size:12>- anhat: Bật/Tắt tự động nhặt vật phẩm (Mặc định bật)
+<color:DeepSkyBlue,x:7,size:12>- itm: Bật/Tắt lọc không nhặt vật phẩm của người khác (Mặc định bật)
+<color:DeepSkyBlue,x:7,size:12>- sln: Bật/Tắt giới hạn số lần tự động nhặt một vật phẩm (Mặc định bật)
+<color:DeepSkyBlue,x:7,size:12>- slnX: Thay đổi giới hạn số lần nhặt là X (Mặc định X = 7)
+<color:DeepSkyBlue,x:7,size:12>- addiX: Thêm vào/Xoá khỏi danh sách chỉ tự động nhặt vật phẩm id X (X là id vật phẩm)
+<color:DeepSkyBlue,x:7,size:12>- blocki (trỏ vào vật phẩm): Thêm vào/Xoá khỏi danh sách không tự động nhặt vật phẩm đang trỏ
+<color:DeepSkyBlue,x:7,size:12>- blockiX: Thêm vào/Xoá khỏi danh sách không tự động nhặt vật phẩm id X
+<color:DeepSkyBlue,x:7,size:12>- addtiX: Thêm vào/Xoá khỏi danh sách chỉ tự động nhặt loại vật phẩm id X(X là id loại vật phẩm)
+<color:DeepSkyBlue,x:7,size:12>- blocktiX: Thêm vào/Xoá khỏi danh sách không tự động nhặt loại vật phẩm id X
+<color:DeepSkyBlue,x:7,size:12>- clri: Cài đặt lại danh sách lọc vật phẩm vể mặc định (danh sách chỉ nhặt và danh sách chặn)
+<color:DeepSkyBlue,x:7,size:12>- cnn: Cài đặt nhanh chỉ nhặt ngọc (tương ứng lệnh chat "clri" và "addi77")
+<color:lime,x:0,size:14>2. Phím Tắt
+<color:DeepSkyBlue,x:7,size:12>- A: tự đánh
+<color:DeepSkyBlue,x:7,size:12>- B: mở danh sách bạn bè
+<color:DeepSkyBlue,x:7,size:12>- C: sử dụng capsule
+<color:DeepSkyBlue,x:7,size:12>- shift + D: đóng băng skill hiện tại
+<color:DeepSkyBlue,x:7,size:12>- shift + Q: auto đập đồ (thêm đồ cần đập vô bà hạt mít r ấn :V)
+<color:DeepSkyBlue,x:7,size:12>- E: auto hồi sinh
+<color:DeepSkyBlue,x:7,size:12>- F: sử dụng bông tai(tách hợp thể = đệ về nhà)
+<color:DeepSkyBlue,x:7,size:12>- G: mời giao dịch
+<color:DeepSkyBlue,x:7,size:12>- J: load map trái (trong NRSĐ load đến đầu map)
+<color:DeepSkyBlue,x:7,size:12>- K: load map giữa (trong NRSĐ load đến giữa map - npc, nếu có NRĐ ưu tiên dịch đến NRĐ)
+<color:DeepSkyBlue,x:7,size:12>- L: load map phải (trong NRSĐ load đến cuối map)
+<color:DeepSkyBlue,x:7,size:12>- M: mở bảng đổi khu
+<color:DeepSkyBlue,x:7,size:12>- N: bật/tắt nhặt all vật phẩm (trong NRSĐ ưu tiên nhặt NRĐ)
+<color:DeepSkyBlue,x:7,size:12>- T: dùng TDLT
+<color:DeepSkyBlue,x:7,size:12>- U: capsu đi hồi skill ở ĐHVT rồi quay lại map cũ
+<color:DeepSkyBlue,x:7,size:12>- I: giữ mục tiêu đang focus
+<color:DeepSkyBlue,x:7,size:12>- S: focus đến boss (trong NRSD sẽ focus đến người ôm)
+<color:DeepSkyBlue,x:7,size:12>- V: Dịch đến focus (đối tượng đang trỏ)
+<color:DeepSkyBlue,x:7,size:12>- X: Mở Menu Mod
+<color:DeepSkyBlue,x:7,size:12>- H: xhp trong NRSD
+<color:DeepSkyBlue,x:7,size:12>- W: giảm dung lượng phiên bản: xóa hết hình ảnh không cần thiết (nhớ tắt V_key)
+<color:DeepSkyBlue,x:7,size:12>- O: auto vào NRSD
+<color:DeepSkyBlue,x:7,size:12>- 0: Mặc set đồ 1
+<color:DeepSkyBlue,x:7,size:12>- 9: Mặc set đồ 2
+<color:lime,x:0,size:14>3. Lệnh CMD
+<color:DeepSkyBlue,x:7,size:12>- help: xem các lệnh
+<color:DeepSkyBlue,x:7,size:12>- cls: xóa log cmd
+<color:DeepSkyBlue,x:7,size:12>- close: đóng all tab đã kết nối
+<color:DeepSkyBlue,x:7,size:12>- chat: X: chat all tab với nd X
+<color:DeepSkyBlue,x:7,size:12>- cmd: X: chat lênh X all tab
+<color:DeepSkyBlue,x:7,size:12>- press: X: ấn phím X all tab
+<color:red,x:0,size:14>*NOTE:
+<color:yellow,x:7,size:10>- Bản sử dụng mã nguồn mở từ Phucprotein với 2 tính năng tàn sát, xmap
+<color:yellow,x:17,size:10>+ Tàn sát: https://github.com/pk9rprotein/PickMobNRO
+<color:yellow,x:17,size:10>+ Xmap: https://github.com/pk9rprotein/XmapNRO
+<color:yellow,x:7,size:10>- Tele không cần mặc yd chỉ cần có trong hành trang
+<color:yellow,x:7,size:10>- Click vào dấu <<< ở dòng thông báo boss để load map đến map boss xuất hiện
+<color:yellow,x:7,size:10>- Ấn vào thành viên trong bang để hiển thị chức năng tele đến thành viên bang
+<color:yellow,x:7,size:10>- 1 số tính năng chỉ có bản PRO mới có 
+<color:yellow,x:7,size:10>- Ae dùng bản PRO muốn thêm chức năng nào vui lòng ib ADMIN để góp ý

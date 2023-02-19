@@ -1,0 +1,109 @@
+[18-May-2022 17:12:41 Asia/Ho_Chi_Minh] PHP Warning:  require_once(../../config/config.php): failed to open stream: No such file or directory in /home/toolshop/public_html/cron/removeKey.php on line 2
+[18-May-2022 17:12:41 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required '../../config/config.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/toolshop/public_html/cron/removeKey.php on line 2
+[18-May-2022 17:12:43 Asia/Ho_Chi_Minh] PHP Warning:  require_once(../../config/config.php): failed to open stream: No such file or directory in /home/toolshop/public_html/cron/removeKey.php on line 2
+[18-May-2022 17:12:43 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required '../../config/config.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/toolshop/public_html/cron/removeKey.php on line 2
+[18-May-2022 17:14:43 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: num in /home/toolshop/public_html/cron/removeKey.php on line 25
+[25-May-2022 20:27:09 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: CMSNT in /home/toolshop/public_html/cron/momo.php on line 5
+[25-May-2022 20:27:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function site() on null in /home/toolshop/public_html/cron/momo.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/toolshop/public_html/cron/momo.php on line 5
+[25-May-2022 20:27:12 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: CMSNT in /home/toolshop/public_html/cron/momo.php on line 5
+[25-May-2022 20:27:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function site() on null in /home/toolshop/public_html/cron/momo.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/toolshop/public_html/cron/momo.php on line 5
+[25-May-2022 20:27:12 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: CMSNT in /home/toolshop/public_html/cron/momo.php on line 5
+[25-May-2022 20:27:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function site() on null in /home/toolshop/public_html/cron/momo.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/toolshop/public_html/cron/momo.php on line 5
+[25-May-2022 20:27:13 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: CMSNT in /home/toolshop/public_html/cron/momo.php on line 5
+[25-May-2022 20:27:13 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function site() on null in /home/toolshop/public_html/cron/momo.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/toolshop/public_html/cron/momo.php on line 5
+[25-May-2022 20:27:13 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: CMSNT in /home/toolshop/public_html/cron/momo.php on line 5
+[25-May-2022 20:27:13 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function site() on null in /home/toolshop/public_html/cron/momo.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/toolshop/public_html/cron/momo.php on line 5
+[25-May-2022 20:27:13 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: CMSNT in /home/toolshop/public_html/cron/momo.php on line 5
+[25-May-2022 20:27:13 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function site() on null in /home/toolshop/public_html/cron/momo.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/toolshop/public_html/cron/momo.php on line 5
+[25-May-2022 20:27:14 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: CMSNT in /home/toolshop/public_html/cron/momo.php on line 5
+[25-May-2022 20:27:14 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function site() on null in /home/toolshop/public_html/cron/momo.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/toolshop/public_html/cron/momo.php on line 5
+[25-May-2022 20:27:14 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: CMSNT in /home/toolshop/public_html/cron/momo.php on line 5
+[25-May-2022 20:27:14 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function site() on null in /home/toolshop/public_html/cron/momo.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/toolshop/public_html/cron/momo.php on line 5
+[25-May-2022 20:27:16 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: CMSNT in /home/toolshop/public_html/cron/bank.php on line 7
+[25-May-2022 20:27:16 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function site() on null in /home/toolshop/public_html/cron/bank.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/toolshop/public_html/cron/bank.php on line 7
+[25-May-2022 20:27:20 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: CMSNT in /home/toolshop/public_html/cron/bank.php on line 7
+[25-May-2022 20:27:20 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function site() on null in /home/toolshop/public_html/cron/bank.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/toolshop/public_html/cron/bank.php on line 7
+[25-May-2022 20:27:21 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: CMSNT in /home/toolshop/public_html/cron/bank.php on line 7
+[25-May-2022 20:27:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function site() on null in /home/toolshop/public_html/cron/bank.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/toolshop/public_html/cron/bank.php on line 7
+[25-May-2022 20:27:21 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: CMSNT in /home/toolshop/public_html/cron/bank.php on line 7
+[25-May-2022 20:27:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function site() on null in /home/toolshop/public_html/cron/bank.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/toolshop/public_html/cron/bank.php on line 7
+[25-May-2022 20:27:22 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: CMSNT in /home/toolshop/public_html/cron/bank.php on line 7
+[25-May-2022 20:27:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function site() on null in /home/toolshop/public_html/cron/bank.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/toolshop/public_html/cron/bank.php on line 7
+[25-May-2022 20:27:22 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: CMSNT in /home/toolshop/public_html/cron/bank.php on line 7
+[25-May-2022 20:27:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function site() on null in /home/toolshop/public_html/cron/bank.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/toolshop/public_html/cron/bank.php on line 7
+[25-May-2022 20:27:22 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: CMSNT in /home/toolshop/public_html/cron/bank.php on line 7
+[25-May-2022 20:27:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function site() on null in /home/toolshop/public_html/cron/bank.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/toolshop/public_html/cron/bank.php on line 7
+[25-May-2022 20:27:22 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: CMSNT in /home/toolshop/public_html/cron/bank.php on line 7
+[25-May-2022 20:27:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function site() on null in /home/toolshop/public_html/cron/bank.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/toolshop/public_html/cron/bank.php on line 7
+[25-May-2022 20:27:22 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: CMSNT in /home/toolshop/public_html/cron/bank.php on line 7
+[25-May-2022 20:27:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function site() on null in /home/toolshop/public_html/cron/bank.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/toolshop/public_html/cron/bank.php on line 7
+[25-May-2022 20:27:22 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: CMSNT in /home/toolshop/public_html/cron/bank.php on line 7
+[25-May-2022 20:27:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function site() on null in /home/toolshop/public_html/cron/bank.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/toolshop/public_html/cron/bank.php on line 7
+[25-May-2022 20:27:22 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: CMSNT in /home/toolshop/public_html/cron/bank.php on line 7
+[25-May-2022 20:27:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function site() on null in /home/toolshop/public_html/cron/bank.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/toolshop/public_html/cron/bank.php on line 7
+[25-May-2022 20:27:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: CMSNT in /home/toolshop/public_html/cron/momo.php on line 5
+[25-May-2022 20:27:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function site() on null in /home/toolshop/public_html/cron/momo.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/toolshop/public_html/cron/momo.php on line 5
+[27-May-2022 12:47:33 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/toolshop/public_html/config/config.php on line 13
+[27-May-2022 12:47:36 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/toolshop/public_html/config/config.php on line 13
+[27-May-2022 12:47:44 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/toolshop/public_html/config/config.php on line 13
+[27-May-2022 12:47:56 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/toolshop/public_html/config/config.php on line 13

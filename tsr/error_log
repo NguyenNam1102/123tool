@@ -1,0 +1,165 @@
+[20-Mar-2022 10:57:40 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/toolshop/public_html/tsr/class/thesieure.php:121
+Stack trace:
+#0 /home/toolshop/public_html/tsr/checkcode.php(15): SkeSoft\Thesieure->CheckCode_GD('T9048569')
+#1 {main}
+  thrown in /home/toolshop/public_html/tsr/class/thesieure.php on line 121
+[20-Mar-2022 10:58:14 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/toolshop/public_html/tsr/class/thesieure.php:121
+Stack trace:
+#0 /home/toolshop/public_html/tsr/checkcode.php(15): SkeSoft\Thesieure->CheckCode_GD('T9048569')
+#1 {main}
+  thrown in /home/toolshop/public_html/tsr/class/thesieure.php on line 121
+[20-Mar-2022 10:59:55 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/toolshop/public_html/tsr/class/thesieure.php:121
+Stack trace:
+#0 /home/toolshop/public_html/tsr/checkcode.php(15): SkeSoft\Thesieure->CheckCode_GD('T9048569')
+#1 {main}
+  thrown in /home/toolshop/public_html/tsr/class/thesieure.php on line 121
+[20-Mar-2022 11:00:26 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/toolshop/public_html/tsr/class/thesieure.php:121
+Stack trace:
+#0 /home/toolshop/public_html/tsr/checkcode.php(15): SkeSoft\Thesieure->CheckCode_GD('T9048569')
+#1 {main}
+  thrown in /home/toolshop/public_html/tsr/class/thesieure.php on line 121
+[20-Mar-2022 11:56:17 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/toolshop/public_html/tsr/class/thesieure.php:121
+Stack trace:
+#0 /home/toolshop/public_html/tsr/checkcode.php(15): SkeSoft\Thesieure->CheckCode_GD('T9048569')
+#1 {main}
+  thrown in /home/toolshop/public_html/tsr/class/thesieure.php on line 121
+[20-Mar-2022 11:56:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/toolshop/public_html/tsr/class/thesieure.php:121
+Stack trace:
+#0 /home/toolshop/public_html/tsr/checkcode.php(15): SkeSoft\Thesieure->CheckCode_GD('T9048569')
+#1 {main}
+  thrown in /home/toolshop/public_html/tsr/class/thesieure.php on line 121
+[20-Mar-2022 12:38:28 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/toolshop/public_html/tsr/class/thesieure.php:121
+Stack trace:
+#0 /home/toolshop/public_html/tsr/checkcode.php(15): SkeSoft\Thesieure->CheckCode_GD('tt')
+#1 {main}
+  thrown in /home/toolshop/public_html/tsr/class/thesieure.php on line 121
+[20-Mar-2022 14:23:44 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/toolshop/public_html/tsr/class/thesieure.php:121
+Stack trace:
+#0 /home/toolshop/public_html/tsr/checkcode.php(15): SkeSoft\Thesieure->CheckCode_GD('NAPTIEN_993')
+#1 {main}
+  thrown in /home/toolshop/public_html/tsr/class/thesieure.php on line 121
+[20-Mar-2022 14:23:48 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/toolshop/public_html/tsr/class/thesieure.php:121
+Stack trace:
+#0 /home/toolshop/public_html/tsr/checkcode.php(15): SkeSoft\Thesieure->CheckCode_GD('NAPTIEN_993')
+#1 {main}
+  thrown in /home/toolshop/public_html/tsr/class/thesieure.php on line 121
+[20-Mar-2022 14:24:41 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/toolshop/public_html/tsr/class/thesieure.php:121
+Stack trace:
+#0 /home/toolshop/public_html/tsr/checkcode.php(15): SkeSoft\Thesieure->CheckCode_GD('NAPTIEN_993')
+#1 {main}
+  thrown in /home/toolshop/public_html/tsr/class/thesieure.php on line 121
+[20-Mar-2022 14:38:13 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/toolshop/public_html/tsr/class/thesieure.php:121
+Stack trace:
+#0 /home/toolshop/public_html/tsr/checkcode.php(15): SkeSoft\Thesieure->CheckCode_GD('T9052819')
+#1 {main}
+  thrown in /home/toolshop/public_html/tsr/class/thesieure.php on line 121
+[06-Jun-2022 23:38:02 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'plaintext' of non-object in /home/toolshop/public_html/tsr/index.php on line 34
+[06-Jun-2022 23:38:02 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'plaintext' of non-object in /home/toolshop/public_html/tsr/index.php on line 36
+[06-Jun-2022 23:38:02 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'plaintext' of non-object in /home/toolshop/public_html/tsr/index.php on line 38
+[06-Jun-2022 23:38:02 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'plaintext' of non-object in /home/toolshop/public_html/tsr/index.php on line 40
+[06-Jun-2022 23:38:02 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'plaintext' of non-object in /home/toolshop/public_html/tsr/index.php on line 34
+[06-Jun-2022 23:38:02 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'plaintext' of non-object in /home/toolshop/public_html/tsr/index.php on line 36
+[06-Jun-2022 23:38:02 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'plaintext' of non-object in /home/toolshop/public_html/tsr/index.php on line 38
+[06-Jun-2022 23:38:02 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'plaintext' of non-object in /home/toolshop/public_html/tsr/index.php on line 40
+[06-Jun-2022 23:38:02 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'plaintext' of non-object in /home/toolshop/public_html/tsr/index.php on line 34
+[06-Jun-2022 23:38:02 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'plaintext' of non-object in /home/toolshop/public_html/tsr/index.php on line 36
+[06-Jun-2022 23:38:02 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'plaintext' of non-object in /home/toolshop/public_html/tsr/index.php on line 38
+[06-Jun-2022 23:38:02 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'plaintext' of non-object in /home/toolshop/public_html/tsr/index.php on line 40
+[06-Jun-2022 23:38:02 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'plaintext' of non-object in /home/toolshop/public_html/tsr/index.php on line 34
+[06-Jun-2022 23:38:02 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'plaintext' of non-object in /home/toolshop/public_html/tsr/index.php on line 36
+[06-Jun-2022 23:38:02 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'plaintext' of non-object in /home/toolshop/public_html/tsr/index.php on line 38
+[06-Jun-2022 23:38:02 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'plaintext' of non-object in /home/toolshop/public_html/tsr/index.php on line 40
+[06-Jun-2022 23:38:02 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'plaintext' of non-object in /home/toolshop/public_html/tsr/index.php on line 34
+[06-Jun-2022 23:38:02 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'plaintext' of non-object in /home/toolshop/public_html/tsr/index.php on line 36
+[06-Jun-2022 23:38:02 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'plaintext' of non-object in /home/toolshop/public_html/tsr/index.php on line 38
+[06-Jun-2022 23:38:02 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'plaintext' of non-object in /home/toolshop/public_html/tsr/index.php on line 40
+[16-Oct-2022 07:42:27 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/toolshop/public_html/tsr/class/thesieure.php:121
+Stack trace:
+#0 /home/toolshop/public_html/tsr/checkcode.php(15): SkeSoft\Thesieure->CheckCode_GD('T20221016126258...')
+#1 {main}
+  thrown in /home/toolshop/public_html/tsr/class/thesieure.php on line 121
+[16-Oct-2022 07:43:20 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/toolshop/public_html/tsr/class/thesieure.php:121
+Stack trace:
+#0 /home/toolshop/public_html/tsr/checkcode.php(15): SkeSoft\Thesieure->CheckCode_GD('202210161262')
+#1 {main}
+  thrown in /home/toolshop/public_html/tsr/class/thesieure.php on line 121
+[16-Oct-2022 07:43:29 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/toolshop/public_html/tsr/class/thesieure.php:121
+Stack trace:
+#0 /home/toolshop/public_html/tsr/checkcode.php(15): SkeSoft\Thesieure->CheckCode_GD('0366483817')
+#1 {main}
+  thrown in /home/toolshop/public_html/tsr/class/thesieure.php on line 121
+[16-Oct-2022 07:46:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/toolshop/public_html/tsr/class/thesieure.php:121
+Stack trace:
+#0 /home/toolshop/public_html/tsr/checkcode.php(15): SkeSoft\Thesieure->CheckCode_GD('NAPTIEN_wppyhie...')
+#1 {main}
+  thrown in /home/toolshop/public_html/tsr/class/thesieure.php on line 121
+[16-Oct-2022 07:46:24 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/toolshop/public_html/tsr/class/thesieure.php:121
+Stack trace:
+#0 /home/toolshop/public_html/tsr/checkcode.php(15): SkeSoft\Thesieure->CheckCode_GD('T20221016126258...')
+#1 {main}
+  thrown in /home/toolshop/public_html/tsr/class/thesieure.php on line 121
+[16-Oct-2022 07:47:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/toolshop/public_html/tsr/class/thesieure.php:121
+Stack trace:
+#0 /home/toolshop/public_html/tsr/checkcode.php(15): SkeSoft\Thesieure->CheckCode_GD('2022-10-16 07:4...')
+#1 {main}
+  thrown in /home/toolshop/public_html/tsr/class/thesieure.php on line 121
+[16-Oct-2022 07:47:16 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/toolshop/public_html/tsr/class/thesieure.php:121
+Stack trace:
+#0 /home/toolshop/public_html/tsr/checkcode.php(15): SkeSoft\Thesieure->CheckCode_GD('2022-10-16 07:4...')
+#1 {main}
+  thrown in /home/toolshop/public_html/tsr/class/thesieure.php on line 121
+[16-Oct-2022 07:48:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/toolshop/public_html/tsr/class/thesieure.php:121
+Stack trace:
+#0 /home/toolshop/public_html/tsr/checkcode.php(15): SkeSoft\Thesieure->CheckCode_GD('T20221016126258...')
+#1 {main}
+  thrown in /home/toolshop/public_html/tsr/class/thesieure.php on line 121
+[16-Oct-2022 07:54:59 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/toolshop/public_html/tsr/class/thesieure.php:121
+Stack trace:
+#0 /home/toolshop/public_html/tsr/checkcode.php(15): SkeSoft\Thesieure->CheckCode_GD('Tsr')
+#1 {main}
+  thrown in /home/toolshop/public_html/tsr/class/thesieure.php on line 121
+[16-Oct-2022 07:55:24 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/toolshop/public_html/tsr/class/thesieure.php:121
+Stack trace:
+#0 /home/toolshop/public_html/tsr/checkcode.php(15): SkeSoft\Thesieure->CheckCode_GD('T20221016126258...')
+#1 {main}
+  thrown in /home/toolshop/public_html/tsr/class/thesieure.php on line 121
+[18-Oct-2022 18:44:04 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/toolshop/public_html/tsr/class/thesieure.php:121
+Stack trace:
+#0 /home/toolshop/public_html/tsr/checkcode.php(15): SkeSoft\Thesieure->CheckCode_GD('T20221018126624...')
+#1 {main}
+  thrown in /home/toolshop/public_html/tsr/class/thesieure.php on line 121
+[18-Oct-2022 18:46:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/toolshop/public_html/tsr/class/thesieure.php:121
+Stack trace:
+#0 /home/toolshop/public_html/tsr/checkcode.php(15): SkeSoft\Thesieure->CheckCode_GD('T20221018126624...')
+#1 {main}
+  thrown in /home/toolshop/public_html/tsr/class/thesieure.php on line 121
+[18-Oct-2022 18:52:07 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/toolshop/public_html/tsr/class/thesieure.php:121
+Stack trace:
+#0 /home/toolshop/public_html/tsr/checkcode.php(15): SkeSoft\Thesieure->CheckCode_GD('T20221018126624...')
+#1 {main}
+  thrown in /home/toolshop/public_html/tsr/class/thesieure.php on line 121
+[18-Oct-2022 18:59:05 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/toolshop/public_html/tsr/class/thesieure.php:121
+Stack trace:
+#0 /home/toolshop/public_html/tsr/checkcode.php(15): SkeSoft\Thesieure->CheckCode_GD('T20221018126624...')
+#1 {main}
+  thrown in /home/toolshop/public_html/tsr/class/thesieure.php on line 121
+[18-Oct-2022 19:11:33 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/toolshop/public_html/tsr/class/thesieure.php:121
+Stack trace:
+#0 /home/toolshop/public_html/tsr/checkcode.php(15): SkeSoft\Thesieure->CheckCode_GD('T20221018126624...')
+#1 {main}
+  thrown in /home/toolshop/public_html/tsr/class/thesieure.php on line 121
+[18-Oct-2022 19:27:49 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/toolshop/public_html/tsr/class/thesieure.php:121
+Stack trace:
+#0 /home/toolshop/public_html/tsr/checkcode.php(15): SkeSoft\Thesieure->CheckCode_GD('T20221018126624...')
+#1 {main}
+  thrown in /home/toolshop/public_html/tsr/class/thesieure.php on line 121
+[18-Oct-2022 20:42:59 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/toolshop/public_html/tsr/class/thesieure.php:121
+Stack trace:
+#0 /home/toolshop/public_html/tsr/checkcode.php(15): SkeSoft\Thesieure->CheckCode_GD('T20221016126258...')
+#1 {main}
+  thrown in /home/toolshop/public_html/tsr/class/thesieure.php on line 121
+[18-Oct-2022 20:43:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/toolshop/public_html/tsr/class/thesieure.php:121
+Stack trace:
+#0 /home/toolshop/public_html/tsr/checkcode.php(15): SkeSoft\Thesieure->CheckCode_GD('T20221016126258...')
+#1 {main}
+  thrown in /home/toolshop/public_html/tsr/class/thesieure.php on line 121
